@@ -1,2 +1,4 @@
 library-adp/
 library-client/
+.vscode/
+request_sender_minelibrary/
